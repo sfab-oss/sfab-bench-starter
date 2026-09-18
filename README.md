@@ -5,8 +5,7 @@ A CAD folder to open in [sfab-bench](https://bench.sfab.ai).
 This app visualizes STEP and talks to it. It does not generate CAD.
 This template already includes Jake's CAD skill
 ([earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad))
-and a Bench skill so chat can author a part, write it under `cad/`,
-then load it in the viewer.
+so chat can author a part, write it under `cad/`, then `show_artifact`.
 
 ## Start
 
